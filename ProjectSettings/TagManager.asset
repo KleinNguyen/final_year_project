@@ -48,6 +48,12 @@ TagManager:
   - name: Player
     uniqueID: 1690562059
     locked: 0
+  - name: Card
+    uniqueID: 2158838373
+    locked: 0
+  - name: Text
+    uniqueID: 1829760455
+    locked: 0
   m_RenderingLayers:
   - Default
   m_MigratedRenderPipelines: []

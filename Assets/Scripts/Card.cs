@@ -4,6 +4,7 @@ using UnityEngine;
 public class Card : ScriptableObject
 {
     public string cardName;
+    public string cardDescription;
     public int energyCost;
     public int damage;
     public int block;
