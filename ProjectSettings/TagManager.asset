@@ -12,7 +12,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - DropArea
   - 
   - 
   - 
@@ -42,17 +42,14 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Background
+    uniqueID: 191522579
+    locked: 0
   - name: Enemy
     uniqueID: 731860651
     locked: 0
   - name: Player
     uniqueID: 1690562059
-    locked: 0
-  - name: Card
-    uniqueID: 2158838373
-    locked: 0
-  - name: Text
-    uniqueID: 1829760455
     locked: 0
   m_RenderingLayers:
   - Default

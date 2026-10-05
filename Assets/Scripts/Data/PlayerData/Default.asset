@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8bdb6a75be657f4085770a6d3e78bc0, type: 3}
+  m_Name: Default
+  m_EditorClassIdentifier: Assembly-CSharp::Player
+  <Image>k__BackingField: {fileID: 4495478712733764576, guid: 389a0f291f1591340bd76b5e339375f9, type: 3}
+  <Health>k__BackingField: 100
+  <Deck>k__BackingField:
+  - {fileID: 11400000, guid: da5f7a97dc30ba44b9470606354a1454, type: 2}
+  - {fileID: 11400000, guid: da5f7a97dc30ba44b9470606354a1454, type: 2}
+  - {fileID: 11400000, guid: da5f7a97dc30ba44b9470606354a1454, type: 2}
+  - {fileID: 11400000, guid: da5f7a97dc30ba44b9470606354a1454, type: 2}
+  - {fileID: 11400000, guid: da5f7a97dc30ba44b9470606354a1454, type: 2}
+  - {fileID: 11400000, guid: da5f7a97dc30ba44b9470606354a1454, type: 2}
+  - {fileID: 11400000, guid: da5f7a97dc30ba44b9470606354a1454, type: 2}
+  - {fileID: 11400000, guid: da5f7a97dc30ba44b9470606354a1454, type: 2}
+  - {fileID: 11400000, guid: da5f7a97dc30ba44b9470606354a1454, type: 2}
+  - {fileID: 11400000, guid: da5f7a97dc30ba44b9470606354a1454, type: 2}
+  - {fileID: 11400000, guid: da5f7a97dc30ba44b9470606354a1454, type: 2}
